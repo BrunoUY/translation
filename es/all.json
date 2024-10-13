@@ -48,7 +48,9 @@
     },
     "MENU": {
       "ADD_NESTED_DOCUMENT": "Agregar Documento Anidado",
+      "CHANGE_DOCUMENT_ICON": "Cambiar Ícono de Documento",
       "CHANGE_DOCUMENT_STATUS": "Cambiar Estado del Documento",
+      "CHANGE_FOLDER_ICON": "Cambiar Ícono de Carpeta",
       "CUSTOMIZE_SPACED_REPETITION": "Personalizar Repetición Espaciada",
       "DELETE": "Eliminar",
       "EDIT_MODE": {
@@ -63,6 +65,8 @@
       },
       "MARK_AS_DOCUMENT": "Marcar como Documento",
       "MOVE": "Mover",
+      "MULTI_SELECTION_FOLDER": "Seleccionar Múltiples Carpetas/Documentos",
+      "MULTI_SELECTION_MODE": "Seleccionar Múltiples Rems",
       "OPEN_IN_ANOTHER_PANE": "Abrir en Otro Panel",
       "PIN_TO_SIDEBAR": "Fijar en la Barra Lateral",
       "PRINT": "Imprimir",
@@ -86,15 +90,16 @@
     "LOCAL_ONLY_WARN": "Este archivo no se ha subido correctamente y se encuentra almacenado temporalmente en tu ordenador.",
     "LOCAL_WAITING_FOR_UPLOAD_WARN": "Este archivo aún no se ha subido y está almacenado solo localmente.",
     "NOT_FOUND": "Este archivo no se puede encontrar.",
-    "NOT_YET_UPLOADED": "Este archivo aún no ha sido subido.",
     "SNIPPING": {
       "NON_PDF": "Por favor, intenta con una herramienta de recorte o pegado diferente, o contacta al soporte técnico.",
       "PDF": "Por favor, contactar al soporte técnico"
-    }
+    },
+    "NOT_YET_UPLOADED": "Este archivo aún no ha sido subido."
   },
   "LANGUAGE": {
     "LANGUAGE_WORD": "Idioma",
-    "TRANSLATION_INFO_SETTINGS": "La traducción aún está en curso; verá una combinación de inglés y el idioma seleccionado.<br>Puede ayudarnos a traducir leyendo el <guideLink>tutorial</guideLink> y luego usando nuestro <editorLink>editor web</editorLink>."
+    "TRANSLATION_INFO_SETTINGS": "La traducción aún está en curso; verá una combinación de inglés y el idioma seleccionado.<br>Puede ayudarnos a traducir leyendo el <guideLink>tutorial</guideLink> y luego usando nuestro <editorLink>editor web</editorLink>.",
+    "TRANSLATION_IN_PROGRESS": "Traducción en Progreso"
   },
   "NOTIFICATIONS": {
     "ARTICLE_DEFAULT": "Tu documento",
